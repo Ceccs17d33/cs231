@@ -1,5 +1,8 @@
-#include <stdio.h>
+// Megha Elsa Shibu
+// S3-D-33
+// stack array
 
+#include <stdio.h>
 int selectionSort(int array[], int size) {
 	int i, j, pos, temp;
 	for (i=0; i<size; i++) {

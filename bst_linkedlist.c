@@ -1,6 +1,5 @@
 // Megha Elsa Shibu
 // S3-D-33
-// stack array
 
 #include <stdio.h>
 #include <stdlib.h>

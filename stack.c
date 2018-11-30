@@ -1,3 +1,6 @@
+Megha Elsa Shibu
+roll no:33
+
 #include<stdio.h>
 
 int stack[100],choice,n,top,x,i;
@@ -91,3 +94,13 @@ void display()
    
 }
 
+output:Enter the size of STACK[MAX=100]5
+ STACK OPERATIONS USING ARRAY
+	--------------------------------1.PUSH 2.POP 3.DISPLAY 4.EXITEnter the Choice1
+ Enter a value to be pushed:2
+Enter the Choice1
+ Enter a value to be pushed:4
+Enter the Choice2
+The popped elements is 4Enter the Choice3
+The elements in STACK 2Press Next ChoiceEnter the Choice4
+EXIT POINT

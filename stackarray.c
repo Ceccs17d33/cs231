@@ -1,3 +1,7 @@
+// Megha Elsa Shibu
+// S3-D
+// stack array
+
 #include <stdio.h>
 
 int stack[100], n=100, top;
